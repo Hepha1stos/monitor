@@ -1,0 +1,35 @@
+2024-10-29 15:45:59 INFO  DBManager:84 - Database path set to J:\Programmieren\Java\monitor\src\main\resources\database\database.db.
+2024-10-29 15:45:59 INFO  DBManager:161 - Database connection initialized.
+2024-10-29 15:45:59 INFO  DBManager:31 - Connection to database at J:\Programmieren\Java\monitor\src\main\resources\database\database.db established.
+2024-10-29 15:45:59 INFO  DBManager:114 - Table 'process' created or already exists.
+2024-10-29 15:45:59 INFO  DBManager:117 - Table 'process_metrics' created or already exists.
+2024-10-29 15:45:59 INFO  ProcessManager:44 - Added Process chrome to processNames
+2024-10-29 15:45:59 INFO  ProcessManager:44 - Added Process teams to processNames
+2024-10-29 15:45:59 INFO  ProcessManager:44 - Added Process test to processNames
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=3584, rss=16384, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=13860, rss=1818624, start_time=29-10-2024 14:36:43} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=8788, rss=110096384, start_time=29-10-2024 14:57:34} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=13400, rss=704512, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=14472, rss=59973632, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=13980, rss=10956800, start_time=29-10-2024 14:18:03} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=4768, rss=16969728, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=11436, rss=57749504, start_time=29-10-2024 15:37:31} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=1240, rss=12890112, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=5904, rss=602112, start_time=29-10-2024 14:18:03} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=11560, rss=8925184, start_time=29-10-2024 15:37:34} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=7468, rss=35209216, start_time=29-10-2024 14:50:38} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=10044, rss=84713472, start_time=29-10-2024 14:54:19} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=14660, rss=16384, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=7492, rss=33193984, start_time=29-10-2024 15:45:59} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=1924, rss=157933568, start_time=29-10-2024 14:50:32} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=6552, rss=1245184, start_time=29-10-2024 14:26:58} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=11160, rss=1236992, start_time=29-10-2024 14:27:10} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=10652, rss=86953984, start_time=29-10-2024 14:26:37} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=8632, rss=1757184, start_time=29-10-2024 14:18:03} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=7608, rss=53018624, start_time=29-10-2024 15:45:59} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=7616, rss=84283392, start_time=29-10-2024 14:18:03} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=14272, rss=91922432, start_time=29-10-2024 14:18:03} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='chrome', pid=5624, rss=120782848, start_time=29-10-2024 15:45:47} added to processMap under key chrome
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='ms-teams', pid=2160, rss=5603328, start_time=29-10-2024 08:03:20} added to processMap under key teams
+2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='ms-teams', pid=6540, rss=4374528, start_time=29-10-2024 08:03:31} added to processMap under key teams
+2024-10-29 15:46:00 ERROR ProcessManager:78 - Kein Prozess gefunden mit dem Namen: test
