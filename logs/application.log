@@ -33,3 +33,21 @@
 2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='ms-teams', pid=2160, rss=5603328, start_time=29-10-2024 08:03:20} added to processMap under key teams
 2024-10-29 15:46:00 INFO  ProcessManager:69 - Process MyProcess{name='ms-teams', pid=6540, rss=4374528, start_time=29-10-2024 08:03:31} added to processMap under key teams
 2024-10-29 15:46:00 ERROR ProcessManager:78 - Kein Prozess gefunden mit dem Namen: test
+2024-10-29 16:24:09 INFO  DBManager:84 - Database path set to J:\Programmieren\Java\monitor\src\main\resources\database\database.db.
+2024-10-29 16:24:09 INFO  DBManager:161 - Database connection initialized.
+2024-10-29 16:24:09 INFO  DBManager:31 - Connection to database at J:\Programmieren\Java\monitor\src\main\resources\database\database.db established.
+2024-10-29 16:24:09 INFO  DBManager:114 - Table 'process' created or already exists.
+2024-10-29 16:24:09 INFO  DBManager:117 - Table 'process_metrics' created or already exists.
+2024-10-29 16:24:09 INFO  DBManager:131 - Database connection closed.
+2024-10-29 16:25:34 INFO  DBManager:84 - Database path set to J:\Programmieren\Java\monitor\src\main\resources\database\database.db.
+2024-10-29 16:25:34 INFO  DBManager:161 - Database connection initialized.
+2024-10-29 16:25:34 INFO  DBManager:31 - Connection to database at J:\Programmieren\Java\monitor\src\main\resources\database\database.db established.
+2024-10-29 16:25:34 INFO  DBManager:114 - Table 'process' created or already exists.
+2024-10-29 16:25:34 INFO  DBManager:117 - Table 'process_metrics' created or already exists.
+2024-10-29 16:25:34 INFO  DBManager:131 - Database connection closed.
+2024-10-29 16:27:58 INFO  DBManager:84 - Database path set to J:\Programmieren\Java\monitor\src\main\resources\database\database.db.
+2024-10-29 16:27:58 INFO  DBManager:161 - Database connection initialized.
+2024-10-29 16:27:58 INFO  DBManager:31 - Connection to database at J:\Programmieren\Java\monitor\src\main\resources\database\database.db established.
+2024-10-29 16:27:58 INFO  DBManager:114 - Table 'process' created or already exists.
+2024-10-29 16:27:58 INFO  DBManager:117 - Table 'process_metrics' created or already exists.
+2024-10-29 16:27:58 INFO  DBManager:131 - Database connection closed.
